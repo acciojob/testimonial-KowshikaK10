@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.mainContainer{
+	background-color: #f5f5f5;
+	padding:10px;
+}
+h2{
+	margin:20px;
+}
+.testimonials{
+	padding:10px;
+	border:1px solid #f5f5f5;
+	background-color:white;
+	margin:20px;
+}
+#author{
+	text-align:right;
+}
